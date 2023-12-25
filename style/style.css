@@ -14,7 +14,7 @@ div {
     border: none;
     margin-top: 30px;
     margin-bottom: 30px;
-    background-color: brown;
+    background-color: #212529;
     padding: 50px;
 }
 .logo-font {
@@ -26,7 +26,7 @@ div {
 }
 
 html,body {
-    background-color: #333333;
+    background-color: whitesmoke;
 }
 .logoimg {
     width: 200px;
@@ -56,19 +56,19 @@ img {
 .content {
    width: 300px;
     height: 200px;
-    border: solid 3px brown;
+    border: solid 3px #212529;
     position: relative;
 }
 
 .content h3{
-    color: brown;
+    color: #212529;
     text-align: center;
     font-family: 'Caveat', cursive;
     font-size: 50px;
 }
 
 .content p {
-    color: white;
+    color: #212529;
     text-align: center;
     font-family: 'Libre Baskerville', serif;
     font-size: 20px;
@@ -78,14 +78,14 @@ img {
 .precio {
     width: 200px;
     height: 30px;
-    background-color: brown;
+    background-color:#212529 ;
     position: relative;
     top: -20px;
     border-radius: 10px;
 }
 
 .precio h3 {
-    color: black;
+    color: white;
     text-align: center;
     font-family: 'Libre Baskerville', serif;
     font-size: 20px;
@@ -95,13 +95,13 @@ img {
     display: block;
     width: 300px;
     height: 200px;
-    border: solid 3px brown;
+    border: solid 3px #212529;
     margin: 20px;
  }
 
 li {
     list-style: none;
-    color: white;
+    color:#212529 ;
     text-align: center;
     font-family: 'Libre Baskerville', serif;
     font-size: 18px;
@@ -114,7 +114,7 @@ ul {
 }
 
 .bebidas h3,.cocteles h3 {
-    color: brown;
+    color: #212529;
     text-align: center;
     font-family: 'Caveat', cursive;
     font-size: 30px;
