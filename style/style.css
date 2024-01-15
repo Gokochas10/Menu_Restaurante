@@ -94,10 +94,17 @@ img {
     font-size: 20px;
 }
 
-.bebidas,.cocteles {
+.cocteles {
     display: block;
     width: 300px;
     height: 200px;
+    border: solid 3px #212529;
+    margin: 20px;
+ }
+ .bebidas {
+    display: block;
+    width: 450px;
+    height: 250px;
     border: solid 3px #212529;
     margin: 20px;
  }
